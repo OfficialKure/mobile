@@ -7,13 +7,13 @@
     <title>Mobile</title>
     <link data-require="ionic@1.0.0-beta.1" data-semver="1.0.0-beta.1" rel="stylesheet" href="http://code.ionicframework.com/1.0.0-beta.1/css/ionic.css" />
     <link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="css/style.css" />
     <script data-require="ionic@1.0.0-beta.1" data-semver="1.0.0-beta.1" src="http://code.ionicframework.com/1.0.0-beta.1/js/ionic.bundle.js"></script>
     <!-- cordova script (this will be a 404 during development) -->
-    <script src="cordova.js"></script>
-    <script src="app.js"></script>
-    <script src="controllers.js"></script>
-    <script src="services.js"></script>
+    <script src="js/cordova.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/controllers.js"></script>
+    <script src="js/services.js"></script>
   </head>
 
   <body ng-app="starter" animation="slide-left-right-ios7">
