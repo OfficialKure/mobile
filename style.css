@@ -1,0 +1,69 @@
+@font-face {
+			   font-family: fontt2;
+			   src: url(Fonts/Main.woff);
+			}
+h1, h2, h3, h4, h5, h6, p, a {
+    font-family: fontt2;
+    
+}			
+/* Main */
+.tab-item.tab-item-active {
+    opacity: 1;
+    color: #3498db;
+    font-family: fontt2;
+}
+.tabs-icon-top .tab-item, .tabs-icon-bottom .tab-item {
+    font-size: 12px;
+    line-height: 14px;
+    font-family: fontt2;
+}
+.tabs {
+border-color: #34495e;
+background-color: #34495e;
+color: #ffffff;
+}
+.bar.bar-stable {
+border-color: #3498db;
+background-color: #3498db;
+color: #444;
+}
+.bar.bar-stable .title {
+color: #fff;
+}
+.bar-stable .button {
+border-color: #b2b2b2;
+background-color: #f8f8f8;
+color: #fff;
+}
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+    max-width: 100%;
+}
+.box {
+    border-radius: 3px;
+    background: #ffffff;
+    border-top: 3px solid #3498db;
+    margin-bottom: 20px;
+    padding-left: 8px;
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    width: 100%;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+.box-body {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    padding: 10px;
+}
+.pane, .view {
+    background-color: #f7f8f8;
+}
+.linebreak-norm {
+    border-bottom: 1px solid #d2d6de;
+}
