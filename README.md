@@ -1,2 +1,1 @@
-# mobile
-Simple Mobile Site Theme
+Mobile
